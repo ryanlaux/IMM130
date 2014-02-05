@@ -1,16 +1,11 @@
 h1{
     font-size: 80px;
     font-family: verdana;
-    
-}
-#mine
-{
-    color:#ff0000;
-}
-#yours{
-    color:#00ff00;
 }
 p{
   font-size: 50px;
     font-family: verdana;  
+}
+a{
+    font-family: verdana;
 }
