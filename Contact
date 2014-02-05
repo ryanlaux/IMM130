@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+
+<!!-- this is the head info for the browser -->
+<head>
+<title> Ryan's Awesome Website
+</title>
+</head>
+
+<body>
+<!-- stuff thats public -->
+<h1>
+Contact Us
+</h1>
+<p> 
+Find out where we are and how to get in touch 
+</p1>
+
+
+</body>
+
+
+</html>
